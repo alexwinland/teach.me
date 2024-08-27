@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --background-primary: #121113;
+    --foreground-primary: #1a191b;
+    --foreground-secondary: #21121d;
+    --border-primary: #3c393f;
+    --border-secondary: #692955;
+    --primary: #d6409f;
+    --secondary: #232225;
+    --text-color: #eeeef0;
+    --text-color-question: #b5b2bc;
+    --text-color-disabled: #6f6d78;
+
+}
+
+body {
+    background-color: var(--background-primary);
+    color: var(--text-color);
+}
