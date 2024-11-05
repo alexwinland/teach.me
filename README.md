@@ -1,5 +1,7 @@
 # teach.me: Aprenda se divertindo! 
 
+<img src="imagens/Projeto.png">
+
 **Cansado de estudar da mesma maneira chata?**  teach.me te ajuda a dar aquela animada nos seus estudos de forma interativa e divertida! 
 
 **Como funciona?** 
